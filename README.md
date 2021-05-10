@@ -2,8 +2,6 @@
 
 Project Name - Churn reduction
 
-Deadline - 15 Days
-
 Project Description -
 
 Churn (loss of customers to competition) is a problem for companies because it is more
