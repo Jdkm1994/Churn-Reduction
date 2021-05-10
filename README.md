@@ -1,9 +1,19 @@
-# Churn-Reduction
-Project Description - Churn (loss of customers to competition) is a problem for companies because it is more expensive to acquire a new customer than to keep your existing one from leaving. This problem statement is targeted at enabling churn reduction using analytics concepts.
+# Churn-Reduction-Project-Python-and-R
 
-Data Sets -
+Project Name - Churn reduction
+
+Deadline - 15 Days
+
+Project Description -
+
+Churn (loss of customers to competition) is a problem for companies because it is more
+expensive to acquire a new customer than to keep your existing one from leaving. This
+problem statement is targeted at enabling churn reduction using analytics concepts.
+
+Given DataSets -
 1) Test_data.csv
 2) Train_data.csv
+
 Problem statement -
 The objective of this Case is to predict customer behaviour. We are providing you a
 public dataset that has customer usage pattern and if the customer has moved or not.
@@ -27,8 +37,11 @@ pattern. The predictors provided are as follows:
 ● total international charge
 ● number of customer service calls made
 
-Target Variable :
-move: if the customer has moved (1=yes; 0 = no)
+Target Variable : move: if the customer has moved (1=yes; 0 = no)
+
 Deliverables :
 1) Code written in both R and Python
 2) Example of output with a sample input.
+3) Comprehensive project report ( please take reference from this sample project report )
+
+
